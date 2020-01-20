@@ -1,0 +1,9 @@
+{
+  "name": "skeuomorph-design-css",
+  "version": "0.0.1",
+  "description": "Test of skeuomorph design in css",
+  "main": "index.html",
+  "repository": "https://github.com/pawelkrystkiewicz/skeuomorph-design-css",
+  "author": "pawelkrystkiewicz",
+  "license": "MIT"
+}
